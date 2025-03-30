@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/admin/revenue.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/admin/order.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/src/java/DTO/Response/GoodsReportRes.java</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/src/java/dao/ProductDao.java</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/detail.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/login.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/src/java/dao/OrderDao.java</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/src/java/Controller/ExportExcelRevenueControl.java</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/src/java/Controller/DashboardControl.java</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/index.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/header.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/search_product.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/src/java/dao/AccountDao.java</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/admin/index.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/shop.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/src/java/Controller/OrderManagerControl.java</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/admin/includes/header.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/admin/goods_report.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/admin/includes/navbar.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/src/java/Controller/ExportProductExcelControl.java</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/slider.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/src/java/DTO/Response/RevenueReportRes.java</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/admin/products.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/product.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/src/java/Controller/ProductReportControl.java</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/src/java/Controller/RevenueControl.java</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/src/java/Controller/ProductDetailControl.java</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/cart.jsp</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/src/java/dao/CategoryDao.java</file>
+            <file>file:/D:/Learned/Year_4/DATN/Path/QL_BanMyPham/QL_BanMyPham/web/account.jsp</file>
+        </group>
+    </open-files>
+</project-private>
