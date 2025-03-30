@@ -1,0 +1,10 @@
+version: '3.8'
+services:
+  mysql:
+    build: .
+    container_name: my_db
+    environment:
+      MYSQL_ROOT_PASSWORD: root
+      MYSQL_DATABASE: 123456
+    ports:
+      - "3307:3306"
